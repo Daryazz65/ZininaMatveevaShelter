@@ -60,7 +60,7 @@
                 <Button Name="OkBtn" Click="OkBtn_Click" Grid.Column="1" Content="ОК"/>
             </Grid>
         </Grid>
-
+<!--cfnfg-->
     <ListView Grid.Row="2" Grid.ColumnSpan="2" Name="AnimalsLv">
             <ListView.View>
                 <GridView>
